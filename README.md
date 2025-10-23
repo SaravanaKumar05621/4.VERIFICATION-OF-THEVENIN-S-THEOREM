@@ -34,6 +34,9 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
+![WhatsApp Image 2025-10-23 at 20 52 58_d669be41](https://github.com/user-attachments/assets/eb89e7fd-ce5e-42f2-a8fc-b6c8b23b45a8)
+
+
 To measure IL
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
@@ -50,6 +53,15 @@ Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+**CALCULATIONS:**
+![WhatsApp Image 2025-10-23 at 21 01 37_c6ca3cb0](https://github.com/user-attachments/assets/02718086-72a4-4cbb-a9b3-e2d85e1fa2d2)
+
+
+**OBSERVATION:**
+
+![WhatsApp Image 2025-10-23 at 20 49 45_19139b5a](https://github.com/user-attachments/assets/effbac18-2eec-499e-abef-f46daaad9225)
+
+![WhatsApp Image 2025-10-23 at 20 49 45_2aee9815](https://github.com/user-attachments/assets/df0f6a3a-9544-4f87-9f46-758bf66600d5)
 
 **PROCEDURE:**
 
@@ -78,3 +90,10 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+14.	**MARKSPLITUP:**
+
+15.	![WhatsApp Image 2025-10-23 at 20 49 45_d0bf739a](https://github.com/user-attachments/assets/7c225ed2-d248-4cd2-8c4d-588d2e4c6b69)
+
+16.	**RESULT:**
+17.	       Hence we verified Thevenin's Theorem theoratically and practically.
+
